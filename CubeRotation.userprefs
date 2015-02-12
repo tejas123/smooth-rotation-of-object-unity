@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\My Development\ColorCircuit\Assets\Script\GameManager.cs">
+    <Files>
+      <File FileName="..\..\My Development\ColorCircuit\Assets\Script\IndividualPiece.cs" Line="34" Column="36" />
+      <File FileName="..\..\My Development\ColorCircuit\Assets\Script\GameManager.cs" Line="50" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
